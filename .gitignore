@@ -1,2 +1,4 @@
 # Ignore all chroma_db folders
 **/chroma_db/
+
+**checkpoint**
